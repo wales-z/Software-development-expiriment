@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/add.png</file>
+        <file>icons/backup.png</file>
+        <file>icons/clear.png</file>
+        <file>icons/cloudRestore.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/restore.png</file>
+        <file>icons/start.png</file>
+        <file>icons/tasklist.png</file>
+        <file>icons/login.png</file>
+        <file>icons/logout.png</file>
+        <file>icons/icon.png</file>
+    </qresource>
+</RCC>
