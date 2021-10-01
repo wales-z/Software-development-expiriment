@@ -1,7 +1,7 @@
 # Software-development-expiriment
 UESTC, 软件开发综合实验
 
-小组成员：周晓龙，安峻峰，郭增岩
+小组成员：周，安，郭
 
 ## 开发环境:
 - Windows 10 21H2
